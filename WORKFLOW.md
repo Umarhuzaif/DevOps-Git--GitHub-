@@ -1,0 +1,5 @@
+"## Git Workflow Documentation" 
+"- Created repo with README and .gitignore" 
+"- Created branches: main, dev, feature" 
+"- Pushed changes to feature and merged via pull requests" 
+"- Added tag v1.0" 
